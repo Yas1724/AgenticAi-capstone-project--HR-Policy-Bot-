@@ -335,3 +335,5 @@ If the score is below `0.7` and the answer hasn't been retried twice yet, the gr
 ---
 
 *HR Policy Bot — Agentic AI Capstone Project 2026 | Powered by Groq (LLaMA 3.3) + LangGraph + ChromaDB*
+
+*Yashraj Singh | Roll No. 2328058 | KIIT Deemed to be University*
