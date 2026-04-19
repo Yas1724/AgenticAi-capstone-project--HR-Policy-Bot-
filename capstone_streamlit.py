@@ -277,6 +277,7 @@ st.markdown("---")
 st.markdown(
     "<p style='text-align:center; color:#94a3b8; font-size:0.8rem;'>"
     "HR Policy Bot • Agentic AI Capstone 2026 • Powered by Groq (LLaMA 3.3) + LangGraph + ChromaDB"
+    "<br>Yashraj Singh | Roll No. 2328058 | KIIT Deemed to be University"
     "</p>",
     unsafe_allow_html=True,
 )
